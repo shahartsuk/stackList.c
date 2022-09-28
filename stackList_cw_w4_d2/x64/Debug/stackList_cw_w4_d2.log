@@ -1,0 +1,7 @@
+﻿  stackList.c
+C:\Users\97254\source\repos\stackList_cw_w4_d2\stackList_cw_w4_d2\stackList.c(28,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\97254\source\repos\stackList_cw_w4_d2\stackList_cw_w4_d2\stackList.c(29,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\97254\source\repos\stackList_cw_w4_d2\stackList_cw_w4_d2\stackList.c(88,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\97254\source\repos\stackList_cw_w4_d2\stackList_cw_w4_d2\stackList.c(124,10): warning C4098: 'push': 'void' function returning a value
+C:\Users\97254\source\repos\stackList_cw_w4_d2\stackList_cw_w4_d2\stackList.c(133,10): warning C4098: 'printTheList': 'void' function returning a value
+  stackList_cw_w4_d2.vcxproj -> C:\Users\97254\source\repos\stackList_cw_w4_d2\x64\Debug\stackList_cw_w4_d2.exe
